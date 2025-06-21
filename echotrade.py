@@ -45,8 +45,8 @@ except PermissionError:
 
 client = None
 session = 'user'
-api_id = 19533412
-api_hash = "244adfc8d6a54f85df6958ac3823e203"
+api_id = 0
+api_hash = "API HASH"
 
 client_logged_in = False
 
