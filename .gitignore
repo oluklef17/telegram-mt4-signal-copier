@@ -1,0 +1,4 @@
+venv/
+LOGS/
+user.session
+*.session
